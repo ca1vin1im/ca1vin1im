@@ -7,7 +7,7 @@
 
 - 🌱 I’m continually honing my skills in **SQL, Python, machine learning, deep learning, reinforcement learning, etc.**
 
-- 😍 **Interests**: Data Science, Data Analytics, AI, SEO, Digital Marketing, Sales, Innovation, UI/UX, etc.
+- 😍 **Interests**: Data Science, Data Analytics, AI, SEO, Digital Marketing, Sales, Innovation, UI/UX, Behavioural Economics, Psychology, AR/VR, Blockchain, Financial Services, Technology, Metaverse, etc.
 
 - 🤓 **Fun Fact**: I used to assemble my own customised desktops previously.
 
