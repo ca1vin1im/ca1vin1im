@@ -1,9 +1,7 @@
 [![MasterHead](https://drive.google.com/uc?export=view&id=19G59NhA9X-TD9GrNr1Tyadf61RZKJUMe)](https://www.linkedin.com/in/calvinlim/)
 
 <h1 align="center">Hi 👋🏻, I'm Calvin!</h1>
-<h3 align="center">🦄🦄🦄🦄    Bilingual, data-driven, insights enabled, omnichannel Marketing and Sales Strategist    🦄🦄🦄🦄</h3>
-<br>
-<br>
+<h3 align="center">🦄🦄 Bilingual, data-driven, insights enabled, omnichannel Marketing and Sales Strategist 🦄🦄</h3>
 <br>
 <br>
 
@@ -15,8 +13,6 @@
 
 - 📫 You can reach me at **boonleonglim@gmail.com**
 
-<br>
-<br>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
